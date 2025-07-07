@@ -1,0 +1,40 @@
+data=[
+    {
+        'name':'deepak',
+        'followers_count':2,
+        'description':'student',
+        'country':'india'
+    },
+    {
+        'name':'virat',
+        'followers_count':18,
+        'description':'cricketer',
+        'country':'indian',
+    },
+    {
+        'name':'ronaldo',
+        'followers_count':15,
+        'description':'football',
+        'country':'portugal',
+    },
+    {
+        'name':'Jenny',
+        'followers_count':13,
+        'description':'lecture',
+        'country':'indian',
+    },
+    {
+        'name':'ABD',
+        'followers_count':12,
+        'description':'cricketer',
+        'country':'south_africa',
+    },
+    {
+        'name':'usain_bolt',
+        'followers_count':14,
+        'description':'sprinter',
+        'country':'jamaican'
+
+    }
+]
+print(data)
