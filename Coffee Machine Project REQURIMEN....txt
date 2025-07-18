@@ -10,10 +10,10 @@ LIKE-> Water:200ml
 5] It will check that suffecint resources are avaliable or not.
 6]If yes it will ask  to insert the coine and calculate the total amount resived(it accepts only a 5RS,10RS,20RS,Coine).
 7]check the payment is done or not:
-    -> if user enter the suffecint Money then that money is added to the total profite by a coffee machine.
-    ->  user enter the more money then . the machine will give he change to user 
+    -> if user enter the suffecint Money then that money is added          to the total profite by a coffee machine.
+    ->  user enter the more money then . the machine will give           the change to user 
     -> If the user as enter the less amount then it will print
-    "sorry not have enough money to buy a drink" Money will refund to the user.
+    "sorry not have enough money to buy a drink" Money will refund        to the user.
     8]Make a coffee.
           -> that payment is successfull then the ingredentes are dedcuted from coffee machine requrirment .
           will print the message "Hear is your Cappuccino "
